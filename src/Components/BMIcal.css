@@ -1,0 +1,18 @@
+.bmi{
+    background-image: url("/src/images/bmibg1.jpg");
+    height: 575px;
+    background-size: cover;
+    background-position: center;
+}
+.bmiresult
+{   
+    text-align: center;
+    border: 2px solid #e63946;
+    border-radius: 5px;
+}
+.cat
+{
+    text-align: center;
+    border: 2px solid #1d3557;
+    border-radius: 5px;
+}

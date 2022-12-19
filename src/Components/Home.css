@@ -1,0 +1,14 @@
+.background{
+    background-image: url("/src/images/homepagebg2.jpg");
+    
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+  }
+span{
+    color: rgb(46, 185, 0);
+  }
+h1{
+font-weight:bold;
+font-size: 50px;
+}  

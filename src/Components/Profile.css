@@ -1,0 +1,6 @@
+.profile{
+    background-image: url("/src/images/profiebg.jpg");
+    height: 675px;
+    background-size:cover;
+    background-position: center;
+}
