@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Calorie_Heist_/static/css/main.b4f1c588.css",
+    "main.js": "/Calorie_Heist_/static/js/main.8de88eaf.js",
+    "static/js/787.6a496de6.chunk.js": "/Calorie_Heist_/static/js/787.6a496de6.chunk.js",
+    "static/media/blog4.jpg": "/Calorie_Heist_/static/media/blog4.d0da1b03b8ebdfd5f21b.jpg",
+    "static/media/profiebg.jpg": "/Calorie_Heist_/static/media/profiebg.654a7f6f3cfcd52cb1ab.jpg",
+    "static/media/homepagebg2.jpg": "/Calorie_Heist_/static/media/homepagebg2.da4cfd8463ce0b45b49b.jpg",
+    "static/media/homepagebg1.jpg": "/Calorie_Heist_/static/media/homepagebg1.24b373774d655f3cd77c.jpg",
+    "static/media/signupbg.jpg": "/Calorie_Heist_/static/media/signupbg.b956c03705f059ddc6d6.jpg",
+    "static/media/blog2.jpg": "/Calorie_Heist_/static/media/blog2.9a7a69a1701658e84507.jpg",
+    "static/media/walkingimg.png": "/Calorie_Heist_/static/media/walkingimg.c7031e966bd6cf3b21ad.png",
+    "static/media/bmibg1.jpg": "/Calorie_Heist_/static/media/bmibg1.318ab2a29597b8fec318.jpg",
+    "index.html": "/Calorie_Heist_/index.html",
+    "main.b4f1c588.css.map": "/Calorie_Heist_/static/css/main.b4f1c588.css.map",
+    "main.8de88eaf.js.map": "/Calorie_Heist_/static/js/main.8de88eaf.js.map",
+    "787.6a496de6.chunk.js.map": "/Calorie_Heist_/static/js/787.6a496de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f1c588.css",
+    "static/js/main.8de88eaf.js"
+  ]
+}
